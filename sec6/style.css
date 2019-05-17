@@ -1,11 +1,20 @@
 /*Selector {*/
 /*    Property: value;*/
 /*}*/
-
-h2 {
-    color: red;
+body {
+    /*background-image: url(background.jpg);*/
+    /*background-size: cover;*/
 }
-
+h2 {
+    color: #AA8939;
+    text-align: center;
+    border: 5px solid rgba(255, 231, 170, 0.4);
+    cursor: pointer;
+}
+li {
+    list-style: none;
+    display: inline-block;
+}
 p {
     color: pink;
 }
