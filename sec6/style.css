@@ -15,12 +15,18 @@ h2, p {
     cursor: pointer;
 }
 li {
-    list-style: none;
-    display: inline-block;
+    text-transform: uppercase;
+;
 }
+
 p {
-    color: pink;
+    line-height: 50px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 150%;
+    font-family: 'Montserrat', sans-serif;;
 }
+
 .webtext {
     border: 5px dashed green;
 }
